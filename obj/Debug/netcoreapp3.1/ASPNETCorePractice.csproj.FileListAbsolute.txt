@@ -18,3 +18,5 @@ C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\netcoreapp3.1\ASPNETCore
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\netcoreapp3.1\ASPNETCorePractice.dll
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\netcoreapp3.1\ASPNETCorePractice.pdb
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\netcoreapp3.1\ASPNETCorePractice.genruntimeconfig.cache
+C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\netcoreapp3.1\ASPNETCorePractice.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\netcoreapp3.1\ASPNETCorePractice.RazorAssemblyInfo.cs
