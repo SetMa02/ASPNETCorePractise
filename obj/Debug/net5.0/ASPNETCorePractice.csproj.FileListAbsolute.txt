@@ -132,13 +132,10 @@ C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\scopedcss\bundle\
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\ASPNETCorePractice.TagHelpers.input.cache
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\ASPNETCorePractice.TagHelpers.output.cache
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\ASPNETCorePractice.RazorCoreGenerate.cache
-C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Shared\CssPartial.cshtml.g.cs
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Shared\FooterPartial.cshtml.g.cs
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
-C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Shared\SideBatPartial.cshtml.g.cs
-C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Shared\_Layuout.cshtml.g.cs
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Shared\_MetaTagsPartial.cshtml.g.cs
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
@@ -150,3 +147,6 @@ C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\ASPNETCorePractic
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\ref\ASPNETCorePractice.dll
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\ASPNETCorePractice.pdb
 C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\ASPNETCorePractice.genruntimeconfig.cache
+C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\ASPNETCorePractice\obj\Debug\net5.0\Razor\Views\Shared\SideBarPartial.cshtml.g.cs
